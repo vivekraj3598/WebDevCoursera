@@ -30,10 +30,12 @@ h1{
 }
 
 #Chicken, #Beef, #Sushi{
+    width: 100px;
     border: 1.5px solid black;
     margin: -1px;
     float: right;
     font-size: 125%;
+    text-align: center;
 }
 
 p{
