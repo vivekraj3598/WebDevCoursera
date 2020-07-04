@@ -1,0 +1,34 @@
+.navbar-brand{
+    color: black;
+}
+
+.navbar-brand:hover{
+    color: black;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+.padding{
+    padding: 8px;
+    margin: 0;
+}
+
+.nav-item{
+    border: 1px solid black;
+    margin-bottom: -1px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.menu{
+    padding: 30px;
+    padding-top: 5px;
+}
+
+.menu-items{
+    margin-bottom: 20px;
+    background-color: lightgray;
+    height: 500px;
+}
